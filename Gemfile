@@ -14,7 +14,7 @@ group :development, :test do
 end
 
 # Ruby version
-ruby '2.1.3'
+ruby '2.2.1'
 
 group :test do
   gem 'selenium-webdriver', '2.35.1'
