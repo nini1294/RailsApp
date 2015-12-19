@@ -15,7 +15,5 @@
 /log/*.log
 /tmp
 
-Gemfile.lock
-
 # Ignore .DS_Store file
 .DS_Store
